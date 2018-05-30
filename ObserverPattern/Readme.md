@@ -1,6 +1,6 @@
 # Observer Pattern
 
-###Wozu dient das Observer Patter?
+### Wozu dient das Observer Patter?
 
 Angenommen wir haben auf Amazon einen Gegenstand gefunden der
 uns gefällt, doch leider ist er ausverkauft. Da wir den Gegenstand
