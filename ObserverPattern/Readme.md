@@ -13,3 +13,16 @@ Diese Benachrichtigung funktioniert mittels eines Observer Patterns.
 
 
 ### Wie funktionert das Observer Pattern?
+
+Hierfür verwendet man ein Objekt names Observable, dieses Objekt
+behinhaltet die Gewünschten Daten, in unserem Fall die Information
+ob der Gegenstand wieder verfügbar ist, und eine Liste mit allen
+Interessenten (alle die "Notify Me" gedrückt haben).
+
+Die Interessenten die dann die Daten vom Observer haben wollen
+können sich dann jederzeit beim Observable registrieren, quasi
+wie ein Newsletter (in unserem fall mittels dem "Notify Me" Button).
+
+### UML
+
+### Code
