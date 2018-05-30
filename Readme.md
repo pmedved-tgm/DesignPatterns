@@ -1,19 +1,32 @@
 # Design Patterns
 
-(TODO)
+## Wof√ºr verwendet man Design Patterns?
+Design Patterns erleichtert einem das implementieren von neuem
+Sourcecode, bzw. das erweitern des alten Sourcecodes. Ein
+weiterer Vorteil von Design Pattern ist, dass sie die
+Qualit√§t des Projektes und des Sourcecodes verbessert.
 
-* [Strategy Pattern](StrategyPattern/README.md)
-* [Decorator Pattern](DecoratorPattern/README.md)
-* [Observer Pattern](ObserverPattern/README.md)
+## Grunds√§tze f√ºr Design Patterns
 
-* Factory Pattern (Simple/Abstract)
-* Proxy Pattern
-* Adapter Pattern
-* Command Pattern
-
-# Grunds‰tze f¸r Design Patterns
-
-1) Trennen von ver‰nderbarem und unver‰nderbarem (Kapselung)
-1) Favorisieren von Kapselung ¸ber Vererbung
+1) Trennen von ver√§nderbarem und unver√§nderbarem (Kapselung)
+1) Favorisieren von Kapselung √ºber Vererbung
 1) Programmieren auf interfaces und nicht auf Implementierungen
 1) Streben nach loser Koppelung
+
+
+## Beispiele f√ºr Design Patterns
+
+* [Abstract Factory](AbstractFactory/README.md)
+
+* [Decorator Pattern](DecoratorPattern/README.md)
+
+* [Factory Method](FactoryMethod/README.md)
+
+* [Observer Pattern](ObserverPattern/README.md)
+
+* [Strategy Pattern](StrategyPattern/README.md)
+
+
+
+
+
