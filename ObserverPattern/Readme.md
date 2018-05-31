@@ -47,7 +47,6 @@ public abstract class Gericht{
 public abstract class Beilage extends Gericht{
     protected Gericht gericht;
 }
-
 ```
 
 Dann werden die eigentlichen Gerichte und Beilagen implementiert
@@ -94,7 +93,6 @@ public class Reis extends Beilage{
 		return this.gericht.cost() + 2.20;
 	}
 }
-
 ```
 
 Letztens können die verschiedenen Gerichte erstellt werden
@@ -107,5 +105,4 @@ public class Main{
 		Gericht gericht = new Reis(new Reis(new Steak()));
 	}
 }
-
 ```
