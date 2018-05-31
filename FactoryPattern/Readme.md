@@ -11,7 +11,7 @@ und unveränderbaren)
 
 ### UML
 
-![Observer UML-Diagramm](ObserverPattern.png "Observer")
+![FactoryMethod UML-Diagramm](FactoryMethod/FactoryMethod.png "FactoryMethod")
 
 ### Code
 
@@ -20,7 +20,7 @@ und unveränderbaren)
 
 ### UML
 
-![Observer UML-Diagramm](ObserverPattern.png "Observer")
+![AbstractFactory UML-Diagramm](AbstractFactory/AbstractFactory.png "AbstractFactory")
 
 ### Code
 
