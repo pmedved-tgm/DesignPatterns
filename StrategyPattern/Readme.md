@@ -112,7 +112,11 @@ public class GarNichtEssen implements EssenStrategy{
 	public void essen(){
 	}
 }
+```
 
+Jetzt können wir eine Klasse KatzeTest erstellen und einige Katzen erzeugen.
+
+```java
 public class KatzeTest{
 	public static void main(String[] args){
 		Katze hausKatze = new Katze(new SchnellLaufen(),new LautSchnurren(), new GenießendEssen());

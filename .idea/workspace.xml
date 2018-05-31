@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36b9b8f1-ab73-4e6b-be65-ff48a5a6689e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.asta.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/StrategyPattern/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/Readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +45,8 @@
         <entry file="file://$PROJECT_DIR$/StrategyPattern/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="344">
-                <caret line="127" column="13" lean-forward="true" selection-start-line="127" selection-start-column="13" selection-end-line="127" selection-end-column="13" />
+              <first_editor relative-caret-position="106">
+                <caret line="116" column="76" selection-start-line="116" selection-start-column="76" selection-end-line="116" selection-end-column="76" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -211,12 +209,12 @@
       <workItem from="1527756984576" duration="538000" />
       <workItem from="1527757579861" duration="1013000" />
       <workItem from="1527775489208" duration="7703000" />
-      <workItem from="1527785068609" duration="491000" />
+      <workItem from="1527785068609" duration="610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16666000" />
+    <option name="totallyTimeSpent" value="16785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -513,8 +511,8 @@
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="344">
-            <caret line="127" column="13" lean-forward="true" selection-start-line="127" selection-start-column="13" selection-end-line="127" selection-end-column="13" />
+          <first_editor relative-caret-position="106">
+            <caret line="116" column="76" selection-start-line="116" selection-start-column="76" selection-end-line="116" selection-end-column="76" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
