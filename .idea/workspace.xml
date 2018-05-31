@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36b9b8f1-ab73-4e6b-be65-ff48a5a6689e" name="Default" comment="" />
+    <list default="true" id="36b9b8f1-ab73-4e6b-be65-ff48a5a6689e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/Readme.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +67,8 @@
         <entry file="file://$PROJECT_DIR$/ObserverPattern/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-408">
-                <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+              <first_editor relative-caret-position="164">
+                <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -239,12 +241,12 @@
       <workItem from="1527756162420" duration="796000" />
       <workItem from="1527756984576" duration="538000" />
       <workItem from="1527757579861" duration="1013000" />
-      <workItem from="1527775489208" duration="2913000" />
+      <workItem from="1527775489208" duration="3405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11385000" />
+    <option name="totallyTimeSpent" value="11877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -486,8 +488,8 @@
     <entry file="file://$PROJECT_DIR$/ObserverPattern/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-408">
-            <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+          <first_editor relative-caret-position="164">
+            <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
