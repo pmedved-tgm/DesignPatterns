@@ -29,7 +29,7 @@ wir die abstracte Klasse Beilage, von der Klasse beilage erben dann die
 Unterklassen wie zum Beispiel Pommes oder Salat.
 
 Wenn man jetzt den Preis seines Gerichts wissen möchte muss man nur die
-cost() Methode des "obersten" Objekts aufrufen, welches dann seinen Preis
+preis() Methode des "obersten" Objekts aufrufen, welches dann seinen Preis
 und den Preis der aller Attribute zurück liefert.
 
 ### UML
