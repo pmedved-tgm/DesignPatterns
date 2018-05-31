@@ -16,9 +16,8 @@ Qualität des Projektes und des Sourcecodes verbessert.
 
 ## Beispiele für Design Patterns
 
-* [Abstract Factory](AbstractFactory/Readme.md)
 * [Decorator Pattern](DecoratorPattern/Readme.md)
-* [Factory Method](FactoryMethod/Readme.md)
+* [Factory Pattern](FactoryPattern/Readme.md)
 * [Observer Pattern](ObserverPattern/Readme.md)
 * [Strategy Pattern](StrategyPattern/Readme.md)
 
