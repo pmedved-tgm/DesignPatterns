@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36b9b8f1-ab73-4e6b-be65-ff48a5a6689e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/StrategyPattern/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/StrategyPattern/Readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="36b9b8f1-ab73-4e6b-be65-ff48a5a6689e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +43,8 @@
         <entry file="file://$PROJECT_DIR$/StrategyPattern/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="106">
-                <caret line="116" column="76" selection-start-line="116" selection-start-column="76" selection-end-line="116" selection-end-column="76" />
+              <first_editor relative-caret-position="429">
+                <caret line="135" column="3" lean-forward="true" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -94,7 +92,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -209,12 +207,12 @@
       <workItem from="1527756984576" duration="538000" />
       <workItem from="1527757579861" duration="1013000" />
       <workItem from="1527775489208" duration="7703000" />
-      <workItem from="1527785068609" duration="610000" />
+      <workItem from="1527785068609" duration="890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16785000" />
+    <option name="totallyTimeSpent" value="17065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -511,8 +509,8 @@
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="106">
-            <caret line="116" column="76" selection-start-line="116" selection-start-column="76" selection-end-line="116" selection-end-column="76" />
+          <first_editor relative-caret-position="429">
+            <caret line="135" column="3" lean-forward="true" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
