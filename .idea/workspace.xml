@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36b9b8f1-ab73-4e6b-be65-ff48a5a6689e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ObserverPattern/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecoratorPattern/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorPattern/Readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,11 +51,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DecoratorPattern/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="351">
+                <caret line="102" column="34" selection-start-line="102" selection-start-column="34" selection-end-line="102" selection-end-column="34" />
+              </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
@@ -63,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ObserverPattern/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -86,9 +88,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Readme.md" />
-        <option value="$PROJECT_DIR$/DecoratorPattern/Readme.md" />
         <option value="$PROJECT_DIR$/DecoratorPattern/Readme2.md" />
         <option value="$PROJECT_DIR$/ObserverPattern/Readme.md" />
+        <option value="$PROJECT_DIR$/DecoratorPattern/Readme.md" />
       </list>
     </option>
   </component>
@@ -241,12 +243,12 @@
       <workItem from="1527756162420" duration="796000" />
       <workItem from="1527756984576" duration="538000" />
       <workItem from="1527757579861" duration="1013000" />
-      <workItem from="1527775489208" duration="3405000" />
+      <workItem from="1527775489208" duration="3435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11877000" />
+    <option name="totallyTimeSpent" value="11907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -470,21 +472,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DecoratorPattern/Readme2.md" />
-    <entry file="file://$PROJECT_DIR$/DecoratorPattern/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ObserverPattern/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -499,6 +486,23 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DecoratorPattern/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="351">
+            <caret line="102" column="34" selection-start-line="102" selection-start-column="34" selection-end-line="102" selection-end-column="34" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>

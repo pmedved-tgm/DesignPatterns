@@ -34,4 +34,80 @@ und den Preis der aller Attribute zurück liefert.
 
 ### UML
 
+![Decorator UML-Diagramm](DecoratorPattern.png "Decorator")
+
 ### Code
+
+Als erstes müssen zwei abstrakte Klassen erstellt werden:
+
+* Die Gericht Klasse mit der abstrakten methode cost()
+* Die Beilage Klasse die eine Subklasse von Geraenk ist
+
+```java
+
+public abstract class Gericht{
+	public abstract double preis();
+}
+
+public abstract class Beilage extends Gericht{
+    protected Gericht gericht;
+}
+```
+
+Dann werden die eigentlichen Gerichte und Beilagen implementiert
+
+```java
+
+public class Schnitzel extends Gericht{
+    @override
+	public double preis(){
+		return 7.90;
+	}
+}
+
+public class Steak extends Gericht{
+    @override
+	public double preis(){
+		return 19.90;
+	}
+}
+
+
+public class Pommes extends Beilage{
+	private Gericht gericht;
+
+	public Pommes(Gericht gericht){
+		this.gericht = gericht;
+	}
+
+    @override
+	public double preis(){
+		return this.gericht.cost() + 1.20;
+	}
+}
+
+public class Reis extends Beilage{
+	private Gericht gericht;
+
+	public Pommes(Gericht gericht){
+		this.gericht = gericht;
+	}
+
+    @override
+	public double preis(){
+		return this.gericht.cost() + 2.20;
+	}
+}
+```
+
+Letztens können die verschiedenen Gerichte erstellt werden
+
+```java
+
+public class Main{
+	public static void main(String[] args){
+		Gericht gericht = new Pommes(new Schnitzel());
+		Gericht gericht = new Reis(new Reis(new Steak()));
+	}
+}
+```
