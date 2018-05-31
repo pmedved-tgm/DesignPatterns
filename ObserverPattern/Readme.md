@@ -86,15 +86,85 @@ public abstract class Observer{
 
 ```java
 public abstract class Customer extends Observer{
-    protected string email;
-    protected string name;
+    protected String email;
+    protected String name;
     protected Product selectedProduct;
 
-    public Customer(string email, sting name, Product selectedProduct){
+    public Customer(String email, sting name, Product selectedProduct){
         this.email = email;
         this.name = name;
         this.selectedProduct = selectedProduct;
+
+        this.selectedProduct.add(this);
     }
 
+    public void close(){
+        this.selectedProduct.remove(this)
+    }
+
+    public void update(){
+        System.out.println("Ihr Artikel ist verfügbar");
+    }
+}
+
+public class PrimeCustomer extends Customer{
+    public PrimeCustomer(){
+        super();
+    }
+}
+public class StandartCustomer extends Customer{
+    public StandartCustomer(){
+        super();
+    }
+}
+```
+
+Zum Schluss erstellen wir das Produkt
+
+```java
+public class Product extends Observable{
+     private String name;
+     private String beschreibung;
+     private int id;
+     private int inStock;
+
+     public Product(){
+         this.name = "Test Artikel";
+         this.beschreibung = "Ich bin eine Beschreibung";
+         this.id = 1337;
+         this.inStock = 0;
+     }
+
+     public String getName(){
+         return this.name;
+     }
+
+     public String getBeschreibung(){
+         return this.beschreibung;
+     }
+
+     public int getID(){
+        return this.id;
+     }
+
+     public int getInStock(){
+       return this.inStock;
+     }
+}
+```
+
+Jetzt können wir die Main Methode schreiben
+
+```java
+public class Main{
+    public static void main(String[] args){
+        Product p1 = new Product);
+
+        StandartCustomer sc = new StandartCustomer();
+        PrimeCustomer pc = new PrimeCustomer();
+
+        sc.close();
+        pc.close();
+    }
 }
 ```
