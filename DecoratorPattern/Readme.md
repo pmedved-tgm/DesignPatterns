@@ -20,7 +20,7 @@ für jede möglichkeit eine eigene klasse benötigt.
 
 
 
-### Wie funktionert das Observer Pattern?
+### Wie funktionert das Decorator Pattern?
 
 Zu erst brauchen wir eine abstracte Klasse Gericht, welche dann Beilage
 und Hauptgericht zusammenfasst. Danach erstellen wir die einzelnen Klassen 
