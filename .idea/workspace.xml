@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36b9b8f1-ab73-4e6b-be65-ff48a5a6689e" name="Default" comment="" />
+    <list default="true" id="36b9b8f1-ab73-4e6b-be65-ff48a5a6689e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/Readme.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +42,11 @@
         </entry>
       </file>
       <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StrategyPattern/Readme.md">
+        <entry file="file://$PROJECT_DIR$/ObserverPattern/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="429">
-                <caret line="135" column="3" lean-forward="true" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
+              <first_editor relative-caret-position="405">
+                <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -71,9 +73,9 @@
       <list>
         <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/DecoratorPattern/Readme2.md" />
-        <option value="$PROJECT_DIR$/ObserverPattern/Readme.md" />
         <option value="$PROJECT_DIR$/DecoratorPattern/Readme.md" />
         <option value="$PROJECT_DIR$/StrategyPattern/Readme.md" />
+        <option value="$PROJECT_DIR$/ObserverPattern/Readme.md" />
       </list>
     </option>
   </component>
@@ -92,7 +94,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -116,6 +118,11 @@
               <item name="sew4-design-patterns-pmedved-tgm" type="b2602c69:ProjectViewProjectNode" />
               <item name="sew4-design-patterns-pmedved-tgm" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sew4-design-patterns-pmedved-tgm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sew4-design-patterns-pmedved-tgm" type="462c0819:PsiDirectoryNode" />
+              <item name="ObserverPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sew4-design-patterns-pmedved-tgm" type="b2602c69:ProjectViewProjectNode" />
@@ -207,12 +214,12 @@
       <workItem from="1527756984576" duration="538000" />
       <workItem from="1527757579861" duration="1013000" />
       <workItem from="1527775489208" duration="7703000" />
-      <workItem from="1527785068609" duration="890000" />
+      <workItem from="1527785068609" duration="1564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17065000" />
+    <option name="totallyTimeSpent" value="17739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -454,23 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ObserverPattern/Readme.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DecoratorPattern/Readme.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -509,8 +499,25 @@
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="429">
-            <caret line="135" column="3" lean-forward="true" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
+          <first_editor relative-caret-position="221">
+            <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="56" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObserverPattern/Readme.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="405">
+            <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

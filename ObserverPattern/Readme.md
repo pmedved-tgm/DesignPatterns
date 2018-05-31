@@ -27,3 +27,7 @@ Die Interessenten die dann die Daten vom Observer haben wollen
 können sich dann jederzeit beim Observable registrieren, quasi
 wie ein Newsletter (in unserem fall mittels dem "Notify Me" Button).
 
+
+### UML
+![Observer UML-Diagramm](ObserverPattern.png "Observer")
+
