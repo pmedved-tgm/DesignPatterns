@@ -1,6 +1,10 @@
 # Observer Pattern
 
-### Wozu dient das Observer Patter?
+### Wozu dient das Observer Pattern?
+
+Das Observer Pattern dient als "Newsletter", der Sinn des Observer 
+Pattern ist, dass alle abhängigen Objekte benachrichtigt werden,
+wenn sich der Zustand eines bestimmten Objektes ändert.
 
 Angenommen wir haben auf Amazon einen Gegenstand gefunden der
 uns gefällt, doch leider ist er ausverkauft. Da wir den Gegenstand
