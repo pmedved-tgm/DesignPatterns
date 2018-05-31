@@ -40,7 +40,7 @@ und den Preis der aller Attribute zurück liefert.
 
 Als erstes müssen zwei abstrakte Klassen erstellt werden:
 
-* Die Gericht Klasse mit der abstrakten methode cost()
+* Die Gericht Klasse mit der abstrakten methode preis()
 * Die Beilage Klasse die eine Subklasse von Geraenk ist
 
 ```java
@@ -82,7 +82,7 @@ public class Pommes extends Beilage{
 
     @override
 	public double preis(){
-		return this.gericht.cost() + 1.20;
+		return this.gericht.preis() + 1.20;
 	}
 }
 
@@ -95,7 +95,7 @@ public class Reis extends Beilage{
 
     @override
 	public double preis(){
-		return this.gericht.cost() + 2.20;
+		return this.gericht.preis() + 2.20;
 	}
 }
 ```

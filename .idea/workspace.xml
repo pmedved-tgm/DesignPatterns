@@ -59,8 +59,8 @@
         <entry file="file://$PROJECT_DIR$/DecoratorPattern/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="476">
-                <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <first_editor relative-caret-position="397">
+                <caret line="97" column="33" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -79,6 +79,7 @@
       <find>fly</find>
       <find>String</find>
       <find>add(this)</find>
+      <find>cost</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -232,12 +233,12 @@
       <workItem from="1527775489208" duration="7703000" />
       <workItem from="1527785068609" duration="3227000" />
       <workItem from="1527795969628" duration="625000" />
-      <workItem from="1527796854207" duration="615000" />
+      <workItem from="1527796854207" duration="681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20642000" />
+    <option name="totallyTimeSpent" value="20708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -582,8 +583,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="476">
-            <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <first_editor relative-caret-position="397">
+            <caret line="97" column="33" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
