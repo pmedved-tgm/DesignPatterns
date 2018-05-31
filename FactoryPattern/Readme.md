@@ -1,21 +1,27 @@
-# Abstract Factory
+### Wozu dient das Factory Pattern?
+Durch das "Problem" mit 'new' ist die abänderbarkeit, da wir dadurch
+auf einer Implementierung Programmierung.
 
-### Wozu dient das Observer Pattern?
+Das new Statment wird auf eine eigene Klasse ausgelegt um den ersten
+Grundsatz der Design Patterns einzuhalten (Trennen von veränderbaren,
+und unveränderbaren)
 
-### Wie funktionert das Observer Pattern?
-
-### UML
-![Observer UML-Diagramm](ObserverPattern.png "Observer")
-
-### Code
 
 # Factory Method
 
-### Wozu dient das Observer Pattern?
-
-### Wie funktionert das Observer Pattern?
-
 ### UML
+
 ![Observer UML-Diagramm](ObserverPattern.png "Observer")
 
 ### Code
+
+
+# Abstract Factory
+
+### UML
+
+![Observer UML-Diagramm](ObserverPattern.png "Observer")
+
+### Code
+
+
