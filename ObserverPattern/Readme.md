@@ -31,3 +31,70 @@ wie ein Newsletter (in unserem fall mittels dem "Notify Me" Button).
 ### UML
 ![Observer UML-Diagramm](ObserverPattern.png "Observer")
 
+
+### Code
+Zu erst erstellen wir unsere abstrakten Klassen:
+
+* Die Klasse Observable
+* Die Klasse Observer
+* Die Klasse Customer
+
+```java
+public abstract class Observable{
+    // Die Liste der angemeldeten Observer
+    protected ArrayList<Observer> observers = new ArrayList();
+
+    /**
+     * @param observer der Observer der angemeldet werden soll
+     */
+    public void add(Observer observer){
+        this.observers.add(observer);
+    }
+
+    /**
+     * @param observer der Observer der abgemeldet werden soll
+     */
+    public void remove(Observer observer){
+        this.observers.remove(observer);
+    }
+
+     /**
+      * Benachrichtigt die Observer, dass der Gegenstand wieder vorhanden
+      */
+     public void notifyObservers(){
+        for(int x = 0; x < observers.size(); x++){
+                observers.get(x).update();
+            }
+        }
+    }
+```
+
+```java
+public abstract class Observer{
+
+    /**
+     * Informiert den Käufer, dass das Produkt wieder vorhanden ist
+     */
+    public abstract void update();
+
+    /**
+     * Meldet den Käufer von der Warteliste ab.
+     */
+    public abstract void close();
+}
+```
+
+```java
+public abstract class Customer extends Observer{
+    protected string email;
+    protected string name;
+    protected Product selectedProduct;
+
+    public Customer(string email, sting name, Product selectedProduct){
+        this.email = email;
+        this.name = name;
+        this.selectedProduct = selectedProduct;
+    }
+
+}
+```
