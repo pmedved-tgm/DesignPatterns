@@ -22,10 +22,10 @@ Qualität des Projektes und des Sourcecodes verbessert.
 
 ## Beispiele für Design Patterns
 
-* [Decorator Pattern](DecoratorPattern/Readme.md)
-* [Factory Pattern](FactoryPattern/Readme.md)
-* [Observer Pattern](ObserverPattern/Readme.md)
-* [Strategy Pattern](StrategyPattern/Readme.md)
+* [Decorator Pattern](DecoratorPattern)
+* [Factory Pattern](FactoryPattern)
+* [Observer Pattern](ObserverPattern)
+* [Strategy Pattern](StrategyPattern)
 
 
 

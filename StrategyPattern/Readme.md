@@ -1,4 +1,4 @@
-[[Zurück zur Startseite](../)]
+[[Zurück zur Startseite](../Readme.md)]
 
 # Strategy Pattern
 
