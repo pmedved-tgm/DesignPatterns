@@ -1,3 +1,5 @@
+[[Zurück zur Startseite](../)]
+
 # Observer Pattern
 
 ### Wozu dient das Observer Pattern?

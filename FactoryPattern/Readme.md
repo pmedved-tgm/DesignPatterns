@@ -1,3 +1,5 @@
+[[Zurück zur Startseite](../)]
+
 ### Wozu dient das Factory Pattern?
 Durch das "Problem" mit 'new' ist die abänderbarkeit, da wir dadurch
 auf einer Implementierung Programmierung.

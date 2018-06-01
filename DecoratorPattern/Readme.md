@@ -1,3 +1,5 @@
+[[Zurück zur Startseite](../)]
+
 # Decorator Pattern
 
 ### Wozu dient das Decorator Pattern?

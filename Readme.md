@@ -1,5 +1,10 @@
 # Design Patterns
 
+## Zweck des Repos
+Dieses Repository soll einem die verschiedenen Desingn Patterns
+näher bringen und erklären wozu und wofür man die verschiedenen
+Design Patterns gebrauchen kann
+
 ## Wofür verwendet man Design Patterns?
 Design Patterns erleichtert einem das implementieren von neuem
 Sourcecode, bzw. das erweitern des alten Sourcecodes. Ein
@@ -12,6 +17,7 @@ Qualität des Projektes und des Sourcecodes verbessert.
 1) Favorisieren von Kapselung über Vererbung
 1) Programmieren auf interfaces und nicht auf Implementierungen
 1) Streben nach loser Koppelung
+1) Offen für Erweiterungen und geschlossen für Änderungen
 
 
 ## Beispiele für Design Patterns

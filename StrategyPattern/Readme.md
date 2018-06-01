@@ -1,3 +1,5 @@
+[[Zurück zur Startseite](../)]
+
 # Strategy Pattern
 
 ### Was ist das Strategy Pattern?
